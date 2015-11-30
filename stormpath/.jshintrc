@@ -1,0 +1,29 @@
+{
+  "curly": true,
+  "eqnull": true,
+  "eqeqeq": true,
+  "esnext": true,
+  "expr": true,
+  "indent": 2,
+  "maxdepth": 3,
+  "maxcomplexity": 6,
+  "newcap": true,
+  "noarg": true,
+  "node": true,
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "multistr": true,
+  "proto": true,
+  "globals": {
+    "after": true,
+    "afterEach": true,
+    "before": true,
+    "beforeEach": true,
+    "context": true,
+    "describe": true,
+    "it": true,
+    "xdescribe": true,
+    "xit": true
+  }
+}

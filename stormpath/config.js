@@ -1,0 +1,5 @@
+module.exports = {
+  STORMPATH_CLIENT_APIKEY_ID: '5SVL7JFJ21QCTGI0VQCJFK4X6',
+  STORMPATH_CLIENT_APIKEY_SECRET: 'YcnLd/nwCI9EfyKnqpKxe2iwlcEE7Xc9yIbOofENbok',
+  STORMPATH_APPLICATION_HREF: 'https://api.stormpath.com/v1/applications/4z5OLdN4Fbx6fI8UYZlXrZ'
+};
